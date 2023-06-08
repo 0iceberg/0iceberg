@@ -4,10 +4,11 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
-<img src="https://camo.githubusercontent.com/2c75ffad5eafc1c32616ee7e35a1eeba5cb1b4c0eeda18658769eac3f9ccff7e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6d6174657269616c2d70616c656e69676874">
-</div>
+
+
 <br>
-<img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+<div algin="center" width="100px"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<!-- <img src="https://camo.githubusercontent.com/2c75ffad5eafc1c32616ee7e35a1eeba5cb1b4c0eeda18658769eac3f9ccff7e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6d6174657269616c2d70616c656e69676874">  -->
 
 ## Skills
 <div>
